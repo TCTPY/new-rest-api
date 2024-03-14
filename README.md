@@ -2,7 +2,7 @@
 
 # user-service
 
-# REST API
+# REST API for registration new user and save him to database(MongoDB)
 
 GET /users -- list of users -- 200, 404, 500
 GET /users/:id -- users by id -- 200, 404, 500
